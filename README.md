@@ -88,8 +88,7 @@ Dynamic Frontend Developer with experience at **Fintlabs**, building performant 
   <img src="https://github-readme-stats.vercel.app/api?username=akbar-farajov&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbar-farajov&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=akbar-farajov&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-  <img src="https://github-contributions.vercel.app/api/?username=akbar-farajov" alt="Total Contributions" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-farajov&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
