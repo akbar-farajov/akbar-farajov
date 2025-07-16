@@ -15,7 +15,7 @@ Dynamic Frontend Developer with experience at **Fintlabs**, building performant 
 
 - 🧩 I love solving problems and bringing designs to life with creative code
 - 🌍 Based in **Baku, Azerbaijan**
-- 📧 Contact me: [akbarfarajov74@gmail.com](mailto:akbarfarajov74@gmail.com)
+- 📧 Contact me: [akbarfarajov74@gmail.com](mailto:akbarfarajovdev@gmail.com)
 - 🌐 Portfolio: [akbar-farajov GitHub](https://github.com/akbar-farajov)
 
 ---
