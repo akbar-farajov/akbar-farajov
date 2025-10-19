@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | Creative Problem Solver | Team Collaborator</h3>
 
 <p align="center">
-  <a href="https://github.com/akbar-farajov"><img src="https://img.shields.io/github/followers/akbar-farajov?label=GitHub&style=social" alt="GitHub" /></a>
+  <a href="https://farajov-akbar.vercel.app/"><img src="https://img.shields.io/github/followers/akbar-farajov?label=GitHub&style=social" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/akbar-farajov/"><img src="https://img.shields.io/badge/LinkedIn-akbar--farajov-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
