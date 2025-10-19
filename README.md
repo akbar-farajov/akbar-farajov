@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | Creative Problem Solver | Team Collaborator</h3>
 
 <p align="center">
-  <a href="https://farajov-akbar.vercel.app/"><img src="https://img.shields.io/github/followers/akbar-farajov?label=GitHub&style=social" alt="GitHub" /></a>
+  <a href="https://github.com/akbar-farajov"><img src="https://img.shields.io/github/followers/akbar-farajov?label=GitHub&style=social" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/akbar-farajov/"><img src="https://img.shields.io/badge/LinkedIn-akbar--farajov-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
@@ -16,7 +16,7 @@ Dynamic Frontend Developer with experience at **Fintlabs**, building performant 
 - 🧩 I love solving problems and bringing designs to life with creative code
 - 🌍 Based in **Baku, Azerbaijan**
 - 📧 Contact me: [akbarfarajovdev@gmail.com](mailto:akbarfarajovdev@gmail.com)
-- 🌐 Portfolio: [akbar-farajov GitHub](https://farajov-akbar.vercel.app/)
+- 🌐 Portfolio: [akbar-farajov Portfolio](https://farajov-akbar.vercel.app/)
 
 ---
 
